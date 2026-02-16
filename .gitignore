@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Environment variables
+backend/.env
+
+# RSA Keys
+backend/keys/
+
+# OS files
+.DS_Store
